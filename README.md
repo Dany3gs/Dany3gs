@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hola, mi nombre es Dany 👋
 
-<!--
-**Dany3gs/Dany3gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Soy uno más que se suma en esta aventura un poco tarde!! 
 
-Here are some ideas to get you started:
+Estoy empezando como autodidacta, y el próximo curso empiezo el grado superior de DAM. Dando mis primeros pasos en el fascinante mundo de la programación, intrigado por aprender y descubrir nuevas tecnologías, lenguajes y herramientas que me permitan crear y enteder este basto mundo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un buen reto💪🏻
+
+¡Listo para enfrentar nuevos desafíos y crecer en este emocionante campo!
+
+
+
+
