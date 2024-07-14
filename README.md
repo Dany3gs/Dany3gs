@@ -8,6 +8,3 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 
 ¡Listo para enfrentar nuevos desafíos y crecer en este emocionante campo!
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZox9HDs66HZ9Me-MLaUDP8wQJj8kvgEbpMQ&s
-
-
