@@ -12,10 +12,40 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 ¡Listo para enfrentar nuevos desafíos y crecer en este emocionante campo!
 
 
-### En lo que ya he visto, y estoy en ello:  
+### En lo que estoy entretenido:  
+<!-- GIT -->
+<a href="https://git-scm.com">
+<img tittle="Hola Git!" width="50" alt="Captura de pantalla 2024-07-15 a las 14 30 09" src="https://github.com/user-attachments/assets/c60432c6-ed5a-4b8a-83a8-e9be9d28c3c2">
+</a>
 
-<img width="50" alt="Captura de pantalla 2024-07-15 a las 14 30 09" src="https://github.com/user-attachments/assets/c60432c6-ed5a-4b8a-83a8-e9be9d28c3c2">
-<img width="55" alt="Captura de pantalla 2024-07-15 a las 14 36 00" src="https://github.com/user-attachments/assets/000594ac-deca-46ec-9048-f0ecf449f792"> 
-<img width="100" alt="Captura de pantalla 2024-07-15 a las 14 37 22" src="https://github.com/user-attachments/assets/3d6e6b6a-270a-4134-8d6c-3b4f108bba33"> 
-<img width="70" alt="Captura de pantalla 2024-07-15 a las 14 39 45" src="https://github.com/user-attachments/assets/ab5840d5-5436-4240-bf69-b57e89638619"> 
-<img width="90" alt="Captura de pantalla 2024-07-15 a las 15 14 40" src="https://github.com/user-attachments/assets/9033e255-05c3-44ef-964e-1676f7e1e711"> 
+<!-- GitHub no url -->
+<img tittle="Hola GitHub!" width="50" alt="Captura de pantalla 2024-07-15 a las 14 36 00" src="https://github.com/user-attachments/assets/000594ac-deca-46ec-9048-f0ecf449f792"> 
+
+<!-- JAVA -->
+<a href="https://www.java.com/es/">
+<img tittle="Hola Java!" width="50" alt="Captura de pantalla 2024-07-15 a las 16 50 22" src="https://github.com/user-attachments/assets/ae653462-33c0-4a76-9c28-d23fb657e3ad">
+</a>
+
+<!-- CodeGym -->
+<a href="https://codegym.cc/es/quests">
+<img tittle="Hola CodeGym!" width="100" alt="Captura de pantalla 2024-07-15 a las 14 37 22" src="https://github.com/user-attachments/assets/3d6e6b6a-270a-4134-8d6c-3b4f108bba33"> 
+</a>
+
+<!-- MySql -->
+<a href="https://www.mysql.com">
+<img tittle="Hola MySql!" width="70" alt="Captura de pantalla 2024-07-15 a las 14 39 45" src="https://github.com/user-attachments/assets/ab5840d5-5436-4240-bf69-b57e89638619"> 
+</a>
+
+<!-- LINUX UBUNTU -->
+<a href="https://ubuntu.com">
+<img tittle="Hola Linux!" width="90" alt="Captura de pantalla 2024-07-15 a las 15 14 40" src="https://github.com/user-attachments/assets/9033e255-05c3-44ef-964e-1676f7e1e711"> 
+</a>
+
+<!-- HTML5 -->
+<a href="https://developer.mozilla.org/es/docs/Glossary/HTML5">
+<img tittle="Hola HTML5!" width="50" alt="Captura de pantalla 2024-07-15 a las 16 49 33" src="https://github.com/user-attachments/assets/94d66adc-fa74-4c05-93c0-d6f479b91309">
+</a>
+
+
+
+
