@@ -12,7 +12,7 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 ¡Listo para enfrentar nuevos desafíos y crecer en este emocionante campo!
 
 
-### En lo que estoy entretenido:  
+### Por estos lares estoy entretenido:  
 <!-- GIT -->
 <a href="https://git-scm.com">
 <img tittle="Hola Git!" width="50" alt="Captura de pantalla 2024-07-15 a las 14 30 09" src="https://github.com/user-attachments/assets/c60432c6-ed5a-4b8a-83a8-e9be9d28c3c2">
