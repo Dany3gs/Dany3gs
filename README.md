@@ -12,7 +12,7 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 ¡Listo para enfrentar nuevos desafíos y crecer en este emocionante campo!
 
 
-### Por estos lares estoy entretenido:  
+### · Por estos lares estoy entretenido:  
 <!-- GIT -->
 <a href="https://git-scm.com">
 <img tittle="Hola Git!" width="50" alt="Captura de pantalla 2024-07-15 a las 14 30 09" src="https://github.com/user-attachments/assets/c60432c6-ed5a-4b8a-83a8-e9be9d28c3c2">
@@ -45,6 +45,22 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 <a href="https://developer.mozilla.org/es/docs/Glossary/HTML5">
 <img tittle="Hola HTML5!" width="50" alt="Captura de pantalla 2024-07-15 a las 16 49 33" src="https://github.com/user-attachments/assets/94d66adc-fa74-4c05-93c0-d6f479b91309">
 </a>
+
+### · IDES que uso:  
+
+<!-- VsCode -->
+<a href="https://code.visualstudio.com">
+<img tittle="Visual Studio Code" width="50" alt="Captura de pantalla 2024-07-16 a las 10 08 37" src="https://github.com/user-attachments/assets/659a6425-f2ff-473d-ae9b-84d9a90808d1">
+</a>
+
+<!-- IntelliJ IDEA -->
+<a href="https://www.jetbrains.com/idea/">
+<img tittle="IntelliJ IDEA" width="50" alt="Captura de pantalla 2024-07-16 a las 10 10 28" src="https://github.com/user-attachments/assets/3ec2b313-542d-436b-85e1-3af8ba160a57">
+</a>
+
+
+
+
 
 
 
