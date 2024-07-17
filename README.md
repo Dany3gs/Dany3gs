@@ -21,10 +21,10 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 <!-- GitHub no url -->
 <img tittle="Hola GitHub!" width="50" alt="Captura de pantalla 2024-07-15 a las 14 36 00" src="https://github.com/user-attachments/assets/000594ac-deca-46ec-9048-f0ecf449f792"> 
 <!--JAVA-->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
+<a target="_blank" href="https://www.java.com/es/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
 </a>
 <!-- GIT -->
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
+<a target="_blank" href="https://git-scm.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
 <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
 </a>
 <!-- CodeGym -->
@@ -32,7 +32,7 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 <img tittle="Hola CodeGym!" width="100" alt="Captura de pantalla 2024-07-15 a las 14 37 22" src="https://github.com/user-attachments/assets/3d6e6b6a-270a-4134-8d6c-3b4f108bba33" /> 
 </a>
  <!-- MySql --> 
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" />
+<a target="_blank" href="https://www.mysql.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" />
 </a>
 <!-- LINUX UBUNTU -->
 <a href="https://ubuntu.com">
