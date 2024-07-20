@@ -20,12 +20,12 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 
 <!-- GitHub no url -->
 <img tittle="Hola GitHub!" width="50" alt="Captura de pantalla 2024-07-15 a las 14 36 00" src="https://github.com/user-attachments/assets/000594ac-deca-46ec-9048-f0ecf449f792"> 
-<!--JAVA-->
-<a target="_blank" href="https://www.java.com/es/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
-</a>
 <!-- GIT -->
 <a target="_blank" href="https://git-scm.com/" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
 <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
+</a>
+<!--JAVA-->
+<a target="_blank" href="https://www.java.com/es/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" />
 </a>
 <!-- CodeGym -->
 <a href="https://codegym.cc/es/quests">
