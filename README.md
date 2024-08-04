@@ -18,6 +18,8 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 
 ### · Por estos lares estoy entretenido:  
 
+***************************************************************************************************************
+
 <!-- GitHub no url -->
 <img tittle="Hola GitHub!" width="50" alt="Captura de pantalla 2024-07-15 a las 14 36 00" src="https://github.com/user-attachments/assets/000594ac-deca-46ec-9048-f0ecf449f792"> 
 <!-- GIT -->
