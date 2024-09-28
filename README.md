@@ -40,8 +40,13 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 <a href="https://ubuntu.com">
 <img tittle="Hola Linux!" width="90" alt="Captura de pantalla 2024-07-15 a las 15 14 40" src="https://github.com/user-attachments/assets/9033e255-05c3-44ef-964e-1676f7e1e711"> 
 <!-- HTML5 -->
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" />
+<a target="_blank" href="https://lenguajehtml.com/html/" style="display: inline-block;"><img src="https://github.com/user-attachments/assets/81b884f0-8885-4b1e-beaa-c0832f58c89e" alt="html5" width="50" />
 </a>
+<!-- CSS -->
+<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS" style="display: inline-block;"><img src="https://github.com/user-attachments/assets/1afda45d-1d5c-46a4-9225-8b04e5d39f48" alt="html5" width="50" />
+</a>
+
+
 
 
 ### · IDES que uso:  
