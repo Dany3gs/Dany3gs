@@ -2,10 +2,6 @@
 <h1 align="center" > Hola, mi nombre es Dany👋 </h1>
 </p>
 
-<p align="center" width="200">
-<img align="center" width="200" src="https://github.com/user-attachments/assets/f8e77a27-f772-40ae-856c-c5faa7d87fda">
-</p>
-
 <p align="center">
 <h2>Soy uno más que se suma en esta aventura un poco tarde!! </h2> 
 
