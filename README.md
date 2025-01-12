@@ -41,6 +41,9 @@ No es la primera vez que cambio de rumbo en mi vida laboral, y este va a ser un 
 <!-- CSS -->
 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/CSS" style="display: inline-block;"><img src="https://github.com/user-attachments/assets/1afda45d-1d5c-46a4-9225-8b04e5d39f48" alt="html5" width="50" />
 </a>
+<!-- junit -->
+<a target="_blank" href="https://junit.org/junit5/" style="display: inline-block;"><img src="https://github.com/user-attachments/assets/984551c1-a41d-48cf-b967-47027d3fa1d4" alt="JUnit" width="100" />
+</a>
 
 
 
